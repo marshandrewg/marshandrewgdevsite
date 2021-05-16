@@ -1,24 +1,22 @@
 {
   "files": {
     "main.css": "/marshandrewgdevsite/static/css/main.ca3f3fdf.chunk.css",
-    "main.js": "/marshandrewgdevsite/static/js/main.36870923.chunk.js",
-    "main.js.map": "/marshandrewgdevsite/static/js/main.36870923.chunk.js.map",
-    "runtime-main.js": "/marshandrewgdevsite/static/js/runtime-main.48b6619f.js",
-    "runtime-main.js.map": "/marshandrewgdevsite/static/js/runtime-main.48b6619f.js.map",
-    "static/js/2.7f38a914.chunk.js": "/marshandrewgdevsite/static/js/2.7f38a914.chunk.js",
-    "static/js/2.7f38a914.chunk.js.map": "/marshandrewgdevsite/static/js/2.7f38a914.chunk.js.map",
-    "static/js/3.66fe2af9.chunk.js": "/marshandrewgdevsite/static/js/3.66fe2af9.chunk.js",
-    "static/js/3.66fe2af9.chunk.js.map": "/marshandrewgdevsite/static/js/3.66fe2af9.chunk.js.map",
-    "d82804324696da5b852af4b8fcecc6f2.js": "/marshandrewgdevsite/d82804324696da5b852af4b8fcecc6f2.js",
-    "d82804324696da5b852af4b8fcecc6f2.js.LICENSE.txt": "/marshandrewgdevsite/d82804324696da5b852af4b8fcecc6f2.js.LICENSE.txt",
+    "main.js": "/marshandrewgdevsite/static/js/main.8bf59d99.chunk.js",
+    "main.js.map": "/marshandrewgdevsite/static/js/main.8bf59d99.chunk.js.map",
+    "runtime-main.js": "/marshandrewgdevsite/static/js/runtime-main.d590868b.js",
+    "runtime-main.js.map": "/marshandrewgdevsite/static/js/runtime-main.d590868b.js.map",
+    "static/js/2.508d62d6.chunk.js": "/marshandrewgdevsite/static/js/2.508d62d6.chunk.js",
+    "static/js/2.508d62d6.chunk.js.map": "/marshandrewgdevsite/static/js/2.508d62d6.chunk.js.map",
+    "static/js/3.b633b5e7.chunk.js": "/marshandrewgdevsite/static/js/3.b633b5e7.chunk.js",
+    "static/js/3.b633b5e7.chunk.js.map": "/marshandrewgdevsite/static/js/3.b633b5e7.chunk.js.map",
     "index.html": "/marshandrewgdevsite/index.html",
     "static/css/main.ca3f3fdf.chunk.css.map": "/marshandrewgdevsite/static/css/main.ca3f3fdf.chunk.css.map",
-    "static/js/2.7f38a914.chunk.js.LICENSE.txt": "/marshandrewgdevsite/static/js/2.7f38a914.chunk.js.LICENSE.txt"
+    "static/js/2.508d62d6.chunk.js.LICENSE.txt": "/marshandrewgdevsite/static/js/2.508d62d6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.48b6619f.js",
-    "static/js/2.7f38a914.chunk.js",
+    "static/js/runtime-main.d590868b.js",
+    "static/js/2.508d62d6.chunk.js",
     "static/css/main.ca3f3fdf.chunk.css",
-    "static/js/main.36870923.chunk.js"
+    "static/js/main.8bf59d99.chunk.js"
   ]
 }
